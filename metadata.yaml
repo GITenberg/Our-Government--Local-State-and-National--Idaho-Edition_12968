@@ -1,0 +1,36 @@
+_repo: Our-Government--Local-State-and-National--Idaho-Edition_12968
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Worlton, James Timbrell
+    birthdate: 1877
+    gutenberg_agent_id: '39918'
+    url: http://www.gutenberg.org/2009/agents/39918
+creator:
+  authors:
+  - agent_name: James, James Alton
+    alias: James, J. A. (James Alton)
+    birthdate: 1864
+    deathdate: 1962
+    gutenberg_agent_id: '4745'
+    url: http://www.gutenberg.org/2009/agents/4745
+  - agent_name: Sanford, Albert Hart
+    birthdate: 1866
+    gutenberg_agent_id: '4750'
+    url: http://www.gutenberg.org/2009/agents/4750
+description: Includes "The Government of Idaho".
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Idaho -- Politics and government'
+- GITenberg
+title: 'Our Government: Local, State, and National: Idaho Edition'
+url: http://www.gutenberg.org/ebooks/12968

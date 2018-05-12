@@ -1,11 +1,14 @@
 _repo: Our-Government--Local-State-and-National--Idaho-Edition_12968
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Worlton, James Timbrell
     birthdate: 1877
     gutenberg_agent_id: '39918'
     url: http://www.gutenberg.org/2009/agents/39918
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: James, James Alton
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '4750'
     url: http://www.gutenberg.org/2009/agents/4750
 description: Includes "The Government of Idaho".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12968#Our-Government--Local-State-and-National--Idaho-Edition
 gutenberg_issued: '2004-07-20'
 gutenberg_type: Text
 identifiers:
